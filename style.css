@@ -1,0 +1,44 @@
+a{
+    margin-left: 60px;
+    text-decoration: none;
+    color: brown;
+    
+}
+body{
+    background-color: rgb(255, 222, 112);
+}
+.q:hover{
+    color: rgb(255, 213, 0);
+    font-size: 20px;
+}
+.w:hover{
+    color: rgb(255, 106, 0);
+    font-size: 20px;
+}
+.e:hover{
+    color: rgb(255, 213, 0);
+    font-size: 20px;
+}
+.r:hover{
+    color: rgb(255, 106, 0);
+    font-size: 20px;
+}
+.t:hover{
+    color: rgb(255, 213, 0);
+    font-size: 20px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    
+}
+h1{
+     display: flex;
+    justify-content: center;
+}
+
+img{
+    margin-left: 5px;
+}
+
+
